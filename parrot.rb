@@ -6,4 +6,3 @@ def parrot(phrase = "Pretty Bird!")
 end
 
 parrot
-puts phrase
